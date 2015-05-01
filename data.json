@@ -1,7 +1,5 @@
 {
     "locations" : [
-      {"location" : "Tokyo", "area" : 845, "population" : 13350000},
-      {"location" : "New York", "area" : 469, "population" : 8406000},
-      {"location" : "Berlin", "area" : 344, "population" : 3502000}
+      {"location" : "Tokyo", "area" : 845, "population" : 13350000}
     ]
 }
